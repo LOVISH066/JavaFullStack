@@ -68,7 +68,7 @@ public class loop {
             fact = fact * num;
             num--;  
         }
-        System.out.println(fact);
+        System.out.println(fact);/////
 
     }
 
