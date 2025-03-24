@@ -11,7 +11,7 @@ public class exception {
         // try-catch use to handle exception like shown below
         // File file1  = new File("demo.txt");
         // Scanner sc2 = new Scanner(file1); shwoing aror that we have not handled the exception
-        // nchecked exception  - - > runtime /////
+        // nchecked exception  - - > runtime /////vvdvdvvds
         try
         {
             
